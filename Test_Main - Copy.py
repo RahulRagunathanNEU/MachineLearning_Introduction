@@ -4,7 +4,7 @@ import time
 import os
 
 sys.path.append("./Functions/")  # Add Function and modules
-print("HELLO FUCK YOU")
+print("HELLO YOU")
 print("Current directory:", os.getcwd())
 
 # import sys
