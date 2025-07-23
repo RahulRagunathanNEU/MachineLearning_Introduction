@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>bdfdfe2e-3f78-4ca6-89bc-dfeea821fbc5</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Test_Main - Copy.py</StartupFile>
+    <StartupFile>Test_Main.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Test_Main - Copy.py" />
+    <Compile Include="Test_Main2.py" />
     <Compile Include="Test_Main.py" />
   </ItemGroup>
   <ItemGroup>

@@ -1,7 +1,11 @@
 
+## To run right click .py file under solution explorer and click "Set as startup file" --otherwise visual studio will not run
 import sys
 import time
+import os
 sys.path.append("./Functions/") # Add Function and modules
+print("HELLO YOU")
+print("Current directory:", os.getcwd())
 
 
 
